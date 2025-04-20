@@ -1,0 +1,6 @@
+python-dotenv
+crewai
+textblob
+newsapi
+firecrawl
+vaderSentiment
