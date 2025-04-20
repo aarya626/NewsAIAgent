@@ -25,7 +25,7 @@ Follow these steps to set up the project locally:
 
 3. Run the application:
    ```bash
-   python crewgooglegemini/main.py
+   streamlit run streamlit_main.py
    ```
 
 ## Usage
