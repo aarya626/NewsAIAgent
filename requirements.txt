@@ -4,3 +4,4 @@ textblob
 newsapi
 firecrawl
 vaderSentiment
+streamlit
